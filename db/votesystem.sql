@@ -158,7 +158,7 @@ ALTER TABLE `positions`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
--- AUTO_INCREMENT for table `voters`
+-- AUTO_INCREMENT for table `voters`/home/trong/PHP_Voting/logout.php
 --
 ALTER TABLE `voters`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
